@@ -5,20 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version : 5.2.4
 
-* System dependencies
+* How to run the test suite:
+  Just go to the folder with command line and run the rails server and then you can preview from http://localhost:3000/
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Deployment instructions:
+  This system can be integrated nearly any system that have user system or want to use user system.
+  There is user Login system integrated but the User Registration is not built. So that must be built.
