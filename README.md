@@ -7,6 +7,8 @@ Things you may want to cover:
 
 * Ruby version : 5.2.4
 
+* Front End : is built with Semantic UI
+
 * How to run the test suite:
   Just go to the folder with command line and run the rails server and then you can preview from http://localhost:3000/
 
